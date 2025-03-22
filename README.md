@@ -29,15 +29,4 @@ The dataset used in this analysis contains sales data of video games across diff
 ## Future Improvements  
 - Expanding the dataset to include more recent sales figures.  
 - Incorporating additional clustering techniques for comparison.  
-- Enhancing visualizations for deeper insights.  
-Install the required dependencies.
-
-Run the Jupyter Notebook to explore the dataset and execute the analysis.
-
-Future Improvements
-Expanding the dataset to include more recent sales figures.
-
-Incorporating additional clustering techniques for comparison.
-
-Enhancing visualizations for deeper insights.
-
+- Enhancing visualizations for deeper insights. 
